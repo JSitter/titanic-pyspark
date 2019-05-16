@@ -2,3 +2,5 @@ virtualenvwrapper
 jupyter
 numpy
 pandas
+pyspark>=2.0.0
+matplotlib
